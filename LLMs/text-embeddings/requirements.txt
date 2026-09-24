@@ -40,7 +40,7 @@ fsspec @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0df
 gmpy2 @ file:///opt/concourse/worker/volumes/live/3b0f84f9-2a9c-48c9-6340-601e345ea292/volume/gmpy2_1645455548178/work
 h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1664132893548/work
 h2 @ file:///Users/runner/miniforge3/conda-bld/h2_1633502800642/work
-hpack==4.0.0
+hpack==4.2.0
 httpcore @ file:///home/conda/feedstock_root/build_artifacts/httpcore_1708529260247/work
 httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1708530890843/work
 huggingface-hub @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_72otd0pybx/croot/huggingface_hub_1708634684501/work
