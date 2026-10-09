@@ -1,4 +1,4 @@
-jupyterlab==4.1.6 
+jupyterlab==4.5.11 
 polars==0.20.21
 sentence-transformers==2.6.1
 scikit-learn==1.2.2
